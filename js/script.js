@@ -1,7 +1,7 @@
 'use strict';
 
 
-
+//this is updated js
 /**
  * add event listener on multiple elements
  */
